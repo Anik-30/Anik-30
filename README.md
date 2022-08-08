@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anik Bhattacharya.
 - 👀 I’m interested in Web Development and Machine Learning.
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web Development.
 - 📫 How to reach me mail: anikbhattachar27@gmail.com
 
 <!---
